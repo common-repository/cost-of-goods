@@ -1,0 +1,7 @@
+{
+  "dependencies": {
+    "@woocommerce/components": "^10.3.0",
+    "@wordpress/hooks": "^3.19.0",
+    "@wordpress/i18n": "^4.19.0"
+  }
+}
